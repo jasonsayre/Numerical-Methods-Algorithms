@@ -6,5 +6,5 @@
   * L - lower triangular matrix
   * U - upper triangular matrix
   * P - the pivot matrix
-##### Program created by Jason Sayre on 03/28/18
-##### Last edit on 03/28/18
+##### Program created on 03/28/18 by Jason Sayre
+##### Last edit on 03/28/18 by Jason Sayre
