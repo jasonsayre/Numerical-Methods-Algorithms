@@ -1,5 +1,7 @@
 # False Position Method
 ## This created function estimates the root of a given function by iterating the false position method to a certain error percentage
+### Syntax:
+  * Please execute the function as follows: '[root, fx, ea, iter] = falsePosition(func, xl ,xu, es, maxiter)'
 ### Inputs:
   * func - the function being evaluated. Please enter function in the format of "@(x)" followed by the desired function. Example: '@(x) x.^3+5*x-4 '
   * xl - the lower guess
