@@ -10,6 +10,7 @@
   * P - the pivot matrix
 ### Limitations: 
   * Input matrices must be of square dimensions
+  * Must input only 1 input argument
 ### Additional Information:
   * Lu factorization is excellent because it solves a system of equations very quickly, and correcly, without considering what the system is set equal to
 ##### Program created on 03/28/18 by Jason Sayre
