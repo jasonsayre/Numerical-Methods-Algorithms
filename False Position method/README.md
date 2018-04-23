@@ -13,5 +13,10 @@
   * fx - the function evaluated at the root location
   * ea - the approximate relative error as a percent
   * iter - how many iterations were performed
+### Limitations:
+  * There must be between 3 and 5 input arguments, listed in order above
+  * There must be a sign change over the interval of the lower and upper guess for the function to work
+### Additional Information: 
+  * This closed root finding method is slower than open root finding methods, but always works
 ##### Program created on 02/17/18 by Jason Sayre
 ##### Last edit on 02/17/18 by Jason Sayre
