@@ -11,5 +11,5 @@
   * fx - the function evaluated at the root location
   * ea - the approximate relative error as a percent
   * iter - how many iterations were performed
-##### Program created by Jason Sayre on 02/17/18
-##### Last edit on 02/17/18
+##### Program created on 02/17/18 by Jason Sayre
+##### Last edit on 02/17/18 by Jason Sayre
