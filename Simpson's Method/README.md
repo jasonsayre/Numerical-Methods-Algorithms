@@ -7,5 +7,9 @@
   * y - data
 ### Outputs:
   * I - Integration numerical data
+### Limitations: 
+  * Must input only 2 input arguments
+### Additional Information: 
+  * This function will display in matlab whether or not the trapezoid rule was executed for the last segment
 ##### Function was created on 04/05/18 by Jason Sayre
 ##### Last edit was on 04/05/18 by Jason Sayre
