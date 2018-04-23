@@ -3,4 +3,4 @@
   * False Position Root Finding Method
   * Lu Factorization Root Finding Method
   * Simpson's Integration Method
-##### Further information about syntax, inputs, and outputs is included in each respective folder
+##### Further information about syntax, inputs, outputs, limitations, and more is included in each respective folder
