@@ -1,5 +1,5 @@
 # False Position Method
-## This function estimates the root of a given function by iterating the false position method to a certain error percentage
+## This created function estimates the root of a given function by iterating the false position method to a certain error percentage
 ### Inputs:
   * func - the function being evaluated. Please enter function in the format of "@(x)" followed by the desired function. Example: '@(x) x.^3+5*x-4 '
   * xl - the lower guess
@@ -12,4 +12,4 @@
   * ea - the approximate relative error as a percent
   * iter - how many iterations were performed
 ##### Program created by Jason Sayre on 02/17/18
-##### Last edit on 01/17/18
+##### Last edit on 02/17/18
